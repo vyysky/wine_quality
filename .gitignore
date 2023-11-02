@@ -1,0 +1,5 @@
+
+data/winequalityN.csv
+_pycache_/
+.env 
+.venv/ 
