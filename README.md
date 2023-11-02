@@ -1,7 +1,7 @@
-# wine_quality
+<b> wine_quality </b>
 Predicting the quality of wine
-## Часть 1.  
+<b> Часть 1. </b> 
 Классификация с помощью LogisticRegression() и DecisionTreeClassifier()  
-## Часть 2.  
+<b> Часть 2. </b>  
 Классификация RandomForestClassifier()
 
